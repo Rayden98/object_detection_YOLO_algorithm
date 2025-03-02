@@ -8,4 +8,4 @@ This repository contains an implementation of object detection using the **YOLO 
 - **Testing:** Evaluates the model’s performance on real-world images.
 
 ### Dataset:
-The dataset used in this project is the [COCO 2017 Dataset](https://www.kaggle.com/datasets/awsaf49/coco-2017-dataset), which contains labeled images for training and testing.
+The dataset used in this project is training = [PASCAL VOC 2012 DATASET](https://www.kaggle.com/datasets/gopalbhattrai/pascal-voc-2012-dataset) Testing= [COCO 2017 Dataset](https://www.kaggle.com/datasets/awsaf49/coco-2017-dataset), which contains labeled images for training and testing.
